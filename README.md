@@ -1,6 +1,11 @@
 <h1 align="center">Hi there, I'm @tempuraguruguru 👋</h1>
 
-<h3 align="center">Researcher in NLP & Data Visualization, Human Computer Interaction / Software Engineer</h3>
+<!-- <h3 align="center">Researcher in NLP & Data Visualization, Human Computer Interaction / Software Engineer</h3> -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=800&lines=Researcher+in+NLP+%26+Data+Visualization;Human+Computer+Interaction;Software+Engineer;Building+TouchMind+with+pgvector;Vocaloid,+Radio+%26+Photography+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
 
 <div align="center">
   情報科学を専攻する大学院生として、自然言語処理（LLM, RAG）やデータ可視化、インタラクションの研究・開発に取り組んでいます。<br/>
@@ -66,6 +71,14 @@
 <br/>
 
 ## 📊 GitHub Stats
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tempuraguruguru/tempuraguruguru/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tempuraguruguru/tempuraguruguru/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tempuraguruguru/tempuraguruguru/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tempuraguruguru&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB" height="150" alt="GitHub Stats" />
