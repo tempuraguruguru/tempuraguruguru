@@ -48,6 +48,23 @@
 
 <br/>
 
+<details>
+<summary><b>💤 On Hiatus / お休み中（サボり中）のプロジェクト</b></summary>
+<br/>
+
+現在は優先順位の都合で開発を一時中断（絶賛サボり中）ですが、残しているリポジトリたち。いつか再開する…かも！
+
+* **[kyopuro](https://github.com/tempuraguruguru/kyopuro)**
+    * 競技プログラミング（AtCoder）の履歴
+* **[nlp](https://github.com/tempuraguruguru/nlp)**
+    * 研究室で「自然言語処理100本ノック」をした際の回答
+* **[Kaggle](https://github.com/tempuraguruguru/Kaggle)**
+    * 目も当てられない
+
+</details>
+
+<br/>
+
 ## 📊 GitHub Stats
 
 <div align="center">
