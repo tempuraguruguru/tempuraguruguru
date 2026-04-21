@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm @tempuraguruguru 👋</h1>
 
-<!-- <h3 align="center">Researcher in NLP & Data Visualization, Human Computer Interaction / Software Engineer</h3> -->
-<div align="center">
+<h3 align="center">Researcher in NLP & Data Visualization, Human Computer Interaction / Software Engineer</h3>
+<!-- <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=800&lines=Researcher+in+NLP+%26+Data+Visualization;Human+Computer+Interaction;Software+Engineer;Building+TouchMind+with+pgvector;Vocaloid,+Radio+%26+Photography+Enthusiast" alt="Typing SVG" />
   </a>
-</div>
+</div> -->
 
 <div align="center">
   情報科学を専攻する大学院生として、自然言語処理（LLM, RAG）やデータ可視化、インタラクションの研究・開発に取り組んでいます。<br/>
