@@ -44,10 +44,13 @@
 
 * **[NodeVapor](https://github.com/tempuraguruguru/NodeVapor)** 🔒 *Private (Coming Soon)*
     * 現在取り組んでいる研究プロジェクトの中核システム。今後のパブリック公開に向けて準備中です。
+    * インタラクティブ情報アクセスと可視化マイニング 第35回研究会：対話グラフの話題遷移に基づく対話パターン分析
+    * 人工知能学会全国大会（第40回）：単語間の意味的距離に基づく話題遷移の構造化と対話パターン分析
 * **[TouchMind](https://github.com/tempuraguruguru/TouchMind)**
     * Docker, PostgreSQL, pgvectorを活用して現在開発中のシステム。ベクトル検索を用いた高度な情報処理を実装しています。
 * **[TSRSSystem](https://github.com/tempuraguruguru/TSRSystem)**
     * 学部4年時の研究プロダクト。ラジオ番組の音声をトピックごとに分割し、ユーザーの興味・関心に応じて適切なパートを推薦するシステムです。
+    * 情報処理学会全国大会（第87回）：ラジオ番組のセグメンテーションとLDAを用いたトピックベース推薦システムの提案
 * **[BlogNetwork](https://github.com/tempuraguruguru/ObjectOrientedWebProgramming)** 🔒 *Private (Coming Soon)*
     * 開発中のブログ共有システム。
 
